@@ -74,3 +74,8 @@ Before training, the data was carefully handled for **missing values** and **out
 
 
 This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
+
+---
+
+## 🚀 Live Demo
+You can try the app directly here: [Diabetes Risk Predictor]([https://your-app-link.streamlit.app/](https://gtc-ml-project2-diabetes-prediction-rjbqteuxmu9vpp34hemytp.streamlit.app/))
