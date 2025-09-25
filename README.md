@@ -68,4 +68,4 @@ Before training, the data was carefully handled for **missing values** and **out
 - Streamlit app can take new patient data as input and output **predicted diabetes outcome** and **probability**
 
 
-This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, threshold optimization, and deployment.
+This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
