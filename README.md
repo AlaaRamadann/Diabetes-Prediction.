@@ -69,3 +69,6 @@ Before training, the data was carefully handled for **missing values** and **out
 
 
 This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
+
+## 🎥 Demo
+![Demo](demo.gif)
