@@ -8,4 +8,4 @@ xgboost
 scipy
 sentencepiece
 streamlit
-pickle
+joblib
