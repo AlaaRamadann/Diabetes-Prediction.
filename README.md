@@ -78,5 +78,5 @@ This project demonstrates the **end-to-end machine learning workflow** for healt
 ---
 
 ## 🚀 Live Demo
--You can try the app directly here: [Diabetes Risk Predictor](https://gtc-ml-project2-diabetes-prediction-rjbqteuxmu9vpp34hemytp.streamlit.app/)
+- You can try the app directly here: [Diabetes Risk Predictor](https://gtc-ml-project2-diabetes-prediction-rjbqteuxmu9vpp34hemytp.streamlit.app/)
 
