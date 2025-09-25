@@ -1,5 +1,10 @@
 # 🩺 Diabetes Prediction Project
 
+## 🎥 Demo
+![Demo](demo.gif)
+
+---
+
 ## 📌 Project Overview
 This project aims to predict diabetes outcomes using machine learning models. The dataset includes clinical and demographic features such as Age, BMI, Glucose levels, Insulin, Pregnancies, and Diabetes Pedigree Function.  
 
@@ -69,6 +74,3 @@ Before training, the data was carefully handled for **missing values** and **out
 
 
 This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
-
-## 🎥 Demo
-![Demo](demo.gif)
