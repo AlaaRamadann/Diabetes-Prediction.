@@ -6,9 +6,9 @@
 ---
 
 ## 📌 Project Overview
-This project aims to predict diabetes outcomes using machine learning models. The dataset includes clinical and demographic features such as Age, BMI, Glucose levels, Insulin, Pregnancies, and Diabetes Pedigree Function.  
+This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
 
-Before training, the data was carefully handled for **missing values** and **outliers** to ensure high-quality input for the models.
+The project aims to predict diabetes outcomes using machine learning models, The dataset includes clinical and demographic features such as Age, BMI, Glucose levels, Insulin, Pregnancies, and Diabetes Pedigree Function.  
 
 ---
 
@@ -71,10 +71,6 @@ Before training, the data was carefully handled for **missing values** and **out
 - Overall Best Model: **XGBoost**, based on **ROC-AUC**, **accuracy**, and **F1-score**.
 - Model saved with **joblib** for deployment in **Streamlit** or other applications  
 - Streamlit app can take new patient data as input and output **predicted diabetes outcome** and **probability**
-
-
-This project demonstrates the **end-to-end machine learning workflow** for healthcare predictions, including preprocessing, feature engineering, model training, evaluation, and deployment.
-
 ---
 
 ## 🚀 Live Demo
