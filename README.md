@@ -58,26 +58,13 @@ Before training, the data was carefully handled for **missing values** and **out
 | Logistic Regression | 0.839          | 0.779          | 0.869   |
 | SVM (RBF)           | 0.896          | 0.864          | 0.912   |
 | Random Forest       | 0.985          | 0.870          | 0.944   |
-| XGBoost             | 0.928          | 0.883          | 0.955   |
+| XGBoost             | 0.957         | 0.896          | 0.955   |
 
 ---
 
-### 5️⃣ Threshold Optimization (for XGBoost)
-- Best **F1-score threshold** found: 0.64  
-- Adjusted predictions improve balance between **Precision** and **Recall**  
-
-| Class | Precision | Recall | F1-score |
-|-------|-----------|--------|----------|
-| 0     | 0.91      | 0.93   | 0.92     |
-| 1     | 0.87      | 0.83   | 0.85     |
-
-- Overall Accuracy: 0.90 ✅  
-
----
-
-### 6️⃣ Model Deployment
-- XGBoost model wrapped in a **custom class** to include threshold for predictions  
-- Model saved with **pickle** for deployment in **Streamlit** or other applications  
+### 5️⃣ Model Deployment
+- Overall Best Model: **XGBoost**, based on **ROC-AUC**, **accuracy**, and **F1-score**.
+- Model saved with **joblib** for deployment in **Streamlit** or other applications  
 - Streamlit app can take new patient data as input and output **predicted diabetes outcome** and **probability**
 
 
